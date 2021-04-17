@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Feb  1 16:21:02 2021
+
+@author: shankarj
+"""
+
+torch
+pandas
+numpy
+scipy
+scikit-image
+tqdm
+matplotlib
